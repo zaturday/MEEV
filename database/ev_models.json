@@ -1,0 +1,458 @@
+{
+  "ev_models": [
+    {
+      "model_id": "byd_dolphin",
+      "brand": "BYD",
+      "model_name": "Dolphin",
+      "launch_year": 2023,
+      "variants": [
+        {
+          "name": "Standard Range",
+          "launch_price_thb": 699999,
+          "current_price_thb": 559900,
+          "battery_capacity_kwh": 44.9,
+          "battery_type": "LFP (Blade Battery)",
+          "range_km_nedc": 410,
+          "motor_power_hp": 95,
+          "drive_type": "FWD",
+          "energy_consumption_kwh_100km": 12.5
+        },
+        {
+          "name": "Extended Range",
+          "launch_price_thb": 859999,
+          "current_price_thb": 699900,
+          "battery_capacity_kwh": 60.48,
+          "battery_type": "LFP (Blade Battery)",
+          "range_km_nedc": 490,
+          "motor_power_hp": 204,
+          "drive_type": "FWD",
+          "energy_consumption_kwh_100km": 13.8
+        }
+      ],
+      "user_problems": [
+        "ช่วงล่างเดิมๆ ค่อนข้างนิ่มและย้วยเกินไป ทำให้โครงเครงขณะขับขี่ความเร็วสูง",
+        "หน้าจอสัมผัสกลางบางครั้งมีอาการหน่วงหรือค้างหลังสตาร์ทรถ",
+        "แอร์มีเสียงดังขณะทำงานในสภาพอากาศร้อนจัด",
+        "ระยะเวลารออะไหล่บางชิ้นส่วนนานหากเกิดอุบัติเหตุหนัก"
+      ],
+      "user_pros": [
+        "ประหยัดค่าไฟสูงมาก ขับขี่ในเมืองคล่องตัว",
+        "พื้นที่ภายในห้องโดยสารกว้างขวางเมื่อเทียบกับขนาดตัวรถภายนอก",
+        "ระบบช่วยเหลือการขับขี่ทำงานได้ดีเทียบเท่ารถระดับแพงกว่า"
+      ]
+    },
+    {
+      "model_id": "byd_atto_3",
+      "brand": "BYD",
+      "model_name": "Atto 3",
+      "launch_year": 2022,
+      "variants": [
+        {
+          "name": "Dynamic (MY24)",
+          "launch_price_thb": 899900,
+          "current_price_thb": 799900,
+          "battery_capacity_kwh": 49.92,
+          "battery_type": "LFP (Blade Battery)",
+          "range_km_nedc": 410,
+          "motor_power_hp": 201,
+          "drive_type": "FWD",
+          "energy_consumption_kwh_100km": 14.5
+        },
+        {
+          "name": "Premium (MY24)",
+          "launch_price_thb": 949900,
+          "current_price_thb": 859900,
+          "battery_capacity_kwh": 49.92,
+          "battery_type": "LFP (Blade Battery)",
+          "range_km_nedc": 410,
+          "motor_power_hp": 201,
+          "drive_type": "FWD",
+          "energy_consumption_kwh_100km": 14.5
+        },
+        {
+          "name": "Extended (MY24)",
+          "launch_price_thb": 1049900,
+          "current_price_thb": 959900,
+          "battery_capacity_kwh": 60.48,
+          "battery_type": "LFP (Blade Battery)",
+          "range_km_nedc": 480,
+          "motor_power_hp": 201,
+          "drive_type": "FWD",
+          "energy_consumption_kwh_100km": 15.0
+        },
+        {
+          "name": "Extended Range (MY23 - Clear Stock)",
+          "launch_price_thb": 1199900,
+          "current_price_thb": 859900,
+          "battery_capacity_kwh": 60.48,
+          "battery_type": "LFP (Blade Battery)",
+          "range_km_nedc": 480,
+          "motor_power_hp": 201,
+          "drive_type": "FWD",
+          "energy_consumption_kwh_100km": 15.0
+        }
+      ],
+      "user_problems": [
+        "ช่วงล่างเดิมมีความย้วยและโยนตัวง่ายเมื่อขับบนถนนขรุขระหรือใช้ความเร็ว",
+        "เสียงพลาสติกเสียดสีบริเวณที่จับเปิดประตูด้านใน (สไตล์สายกีตาร์)",
+        "ดีไซน์การตกแต่งภายในแบบสปอร์ตฟิตเนสไม่ถูกใจผู้ใช้บางกลุ่ม",
+        "ยางรถยนต์ที่ติดมาจากโรงงานลื่นง่ายเมื่อเจอถนนเปียกน้ำ"
+      ],
+      "user_pros": [
+        "พละกำลังมอเตอร์ดีเยี่ยม อัตราเร่งตอบสนองทันใจ",
+        "แผงคอนโซลดีไซน์ล้ำสมัย เทคโนโลยีความปลอดภัยจัดเต็ม",
+        "การเก็บเสียงในห้องโดยสารระดับดีที่ความเร็วไม่เกิน 110 กม./ชม."
+      ]
+    },
+    {
+      "model_id": "byd_seal",
+      "brand": "BYD",
+      "model_name": "Seal",
+      "launch_year": 2023,
+      "variants": [
+        {
+          "name": "Dynamic",
+          "launch_price_thb": 1325000,
+          "current_price_thb": 1199000,
+          "battery_capacity_kwh": 61.4,
+          "battery_type": "LFP (Blade Battery - CTB)",
+          "range_km_nedc": 510,
+          "motor_power_hp": 204,
+          "drive_type": "RWD",
+          "energy_consumption_kwh_100km": 14.0
+        },
+        {
+          "name": "Premium",
+          "launch_price_thb": 1449000,
+          "current_price_thb": 1399000,
+          "battery_capacity_kwh": 82.5,
+          "battery_type": "LFP (Blade Battery - CTB)",
+          "range_km_nedc": 650,
+          "motor_power_hp": 313,
+          "drive_type": "RWD",
+          "energy_consumption_kwh_100km": 14.6
+        },
+        {
+          "name": "AWD Performance",
+          "launch_price_thb": 1599000,
+          "current_price_thb": 1499000,
+          "battery_capacity_kwh": 82.5,
+          "battery_type": "LFP (Blade Battery - CTB)",
+          "range_km_nedc": 580,
+          "motor_power_hp": 530,
+          "drive_type": "AWD",
+          "energy_consumption_kwh_100km": 16.5
+        }
+      ],
+      "user_problems": [
+        "หลังคากระจก Panoramic Glass Roof ไม่มีม่านบังแดดไฟฟ้า ทำให้แผ่ความร้อนสูงในตอนกลางวันของไทย",
+        "ตัวรถเตี้ย (Ground Clearance 120 มม.) ทำให้ขูดขีดใต้ท้องรถได้ง่ายเมื่อขึ้นทางลาดชันหรือหลังเต่า",
+        "พื้นที่เหนือศีรษะ (Headroom) ของผู้โดยสารตอนหลังค่อนข้างต่ำเนื่องจากแนวหลังคาลาดเท",
+        "ระบบช่วยเหลือควบคุมรถให้อยู่ในเลน (LKA) ดึงพวงมาลัยค่อนข้างแรงเกินไป"
+      ],
+      "user_pros": [
+        "สมรรถนะการขับขี่ระดับสปอร์ตคาร์ อัตราเร่งเร็วและเกาะถนนดีเยี่ยม",
+        "โครงสร้าง CTB (Cell-to-Body) แข็งแกร่งและปลอดภัยสูง",
+        "ดีไซน์หรูหรา สวยงามโดดเด่นสะกดสายตาบนท้องถนน"
+      ]
+    },
+    {
+      "model_id": "neta_v_ii",
+      "brand": "NETA",
+      "model_name": "V-II",
+      "launch_year": 2024,
+      "variants": [
+        {
+          "name": "Lite",
+          "launch_price_thb": 549000,
+          "current_price_thb": 549000,
+          "battery_capacity_kwh": 36.1,
+          "battery_type": "LFP (Liquid Cooling)",
+          "range_km_nedc": 382,
+          "motor_power_hp": 95,
+          "drive_type": "FWD",
+          "energy_consumption_kwh_100km": 11.5
+        },
+        {
+          "name": "Smart",
+          "launch_price_thb": 569000,
+          "current_price_thb": 569000,
+          "battery_capacity_kwh": 36.1,
+          "battery_type": "LFP (Liquid Cooling)",
+          "range_km_nedc": 382,
+          "motor_power_hp": 95,
+          "drive_type": "FWD",
+          "energy_consumption_kwh_100km": 11.5
+        }
+      ],
+      "user_problems": [
+        "ความปลอดภัยและโครงสร้างตัวถังระดับเริ่มต้น (มีข้อสังเกตเรื่องคะแนนการชนอาเซียน NCAP ในรุ่นก่อนหน้า)",
+        "ไม่มีที่ปัดน้ำฝนกระจกหลัง ทำให้มองทัศนวิสัยได้ยากเมื่อขับฝ่าฝนตกหนัก",
+        "กำลังไฟในการชาร์จด่วน DC จำกัดความเร็วไว้ค่อนข้างต่ำ (สูงสุด ~45-50 kW)",
+        "การขับขี่ที่ความเร็วสูงเกิน 110 กม./ชม. มีอาการเบาและหน้าลอยเล็กน้อย"
+      ],
+      "user_pros": [
+        "ราคาถูกและจับต้องง่ายที่สุดตัวหนึ่งในกลุ่มรถยนต์ไฟฟ้าไฟฟ้า 5 ที่นั่ง",
+        "ปรับปรุงไฟหน้า LED และช่วงล่างดีกว่า Neta V รุ่นแรกอย่างชัดเจน",
+        "มีระบบ V2L จ่ายกระแสไฟฟ้าออกสู่ภายนอกมาให้เป็นอุปกรณ์มาตรฐาน"
+      ]
+    },
+    {
+      "model_id": "deepal_s07",
+      "brand": "Changan",
+      "model_name": "Deepal S07",
+      "launch_year": 2023,
+      "variants": [
+        {
+          "name": "Standard Range (MY24 - NMC)",
+          "launch_price_thb": 1399000,
+          "current_price_thb": 1199000,
+          "battery_capacity_kwh": 66.8,
+          "battery_type": "NMC",
+          "range_km_nedc": 485,
+          "motor_power_hp": 258,
+          "drive_type": "RWD",
+          "energy_consumption_kwh_100km": 16.8
+        },
+        {
+          "name": "LFP Edition (MY25)",
+          "launch_price_thb": 1099000,
+          "current_price_thb": 1099000,
+          "battery_capacity_kwh": 68.8,
+          "battery_type": "LFP",
+          "range_km_nedc": 485,
+          "motor_power_hp": 258,
+          "drive_type": "RWD",
+          "energy_consumption_kwh_100km": 16.2
+        }
+      ],
+      "user_problems": [
+        "ช่วงล่างในรุ่น MY24 มีเสียงสะท้อนว่าย้วยโยนตัวมากเมื่อขับผ่านลูกคลื่น (รุ่น MY25 ปรับปรุงใหม่แล้วดีขึ้น)",
+        "ประตูไร้กรอบ (Frameless) อาจมีเสียงลมเล็ดลอดเข้ามาในห้องโดยสารได้ง่ายขึ้นเมื่อขับเกิน 120 กม./ชม.",
+        "ไม่มีที่ปัดน้ำฝนด้านหลังสำหรับรูปทรงแบบ Hatchback/SUV",
+        "รุ่นแรกๆ (MY24) ความเร็วชาร์จ DC ค่อนข้างต่ำสูงสุดเพียง 87 kW (รุ่น MY25 อัปเกรดเป็น 167 kW แล้ว)"
+      ],
+      "user_pros": [
+        "งานดีไซน์ภายนอกและภายในล้ำยุค สวยเด่นและมีระดับสูงมาก",
+        "ขับเคลื่อนล้อหลัง อัตราเร่งดี ทัศนวิสัยผู้ขับขี่เยี่ยม",
+        "หน้าจอควบคุมอัจฉริยะปรับหันซ้าย-ขวาได้แบบอัตโนมัติ"
+      ]
+    },
+    {
+      "model_id": "ora_good_cat",
+      "brand": "GWM",
+      "model_name": "ORA Good Cat",
+      "launch_year": 2021,
+      "variants": [
+        {
+          "name": "PRO (CKD - MY24)",
+          "launch_price_thb": 799000,
+          "current_price_thb": 699000,
+          "battery_capacity_kwh": 57.7,
+          "battery_type": "LFP",
+          "range_km_nedc": 480,
+          "motor_power_hp": 143,
+          "drive_type": "FWD",
+          "energy_consumption_kwh_100km": 13.5
+        },
+        {
+          "name": "ULTRA (CKD - MY24)",
+          "launch_price_thb": 899000,
+          "current_price_thb": 789000,
+          "battery_capacity_kwh": 57.7,
+          "battery_type": "LFP",
+          "range_km_nedc": 480,
+          "motor_power_hp": 143,
+          "drive_type": "FWD",
+          "energy_consumption_kwh_100km": 13.5
+        },
+        {
+          "name": "GT (CKD - MY24)",
+          "launch_price_thb": 1099000,
+          "current_price_thb": 949000,
+          "battery_capacity_kwh": 57.7,
+          "battery_type": "LFP",
+          "range_km_nedc": 460,
+          "motor_power_hp": 171,
+          "drive_type": "FWD",
+          "energy_consumption_kwh_100km": 14.5
+        }
+      ],
+      "user_problems": [
+        "ประกาศยุติการจำหน่ายในไทยในปี 2569 ทำให้ผู้ซื้อกังวลเรื่องราคาขายต่อและบริการระยะยาว",
+        "ซอฟต์แวร์ระบบจัดการไฟฟ้ารุ่น CBU เคยเจอปัญหาตัดการทำงาน/รถดับ เมื่ออุณหภูมิแบตเตอรี่ร้อนจัด",
+        "กำลังมอเตอร์การไต่ทางชันสูง (เช่น อ่างขาง, ดอยสุเทพ) ทำได้ค่อนข้างช้า หากแบตเตอรี่เหลือน้อยอาจเจอปัญหาขึ้นไม่ไหว",
+        "ค่าเปลี่ยนแบตเตอรี่แพงมากในกรณีเกิดอุบัติเหตุใต้ท้องรถและประกันประเมินความเสียหายสูง"
+      ],
+      "user_pros": [
+        "ดีไซน์ภายนอกสไตล์โมเดิร์นคลาสสิก/น่ารักดึงดูดกลุ่มผู้ใช้ผู้หญิงได้ดีมาก",
+        "ห้องโดยสารตกแต่งสีสันพาสเทลสวยงาม นั่งสบายไม่รู้สึกอึดอัด",
+        "การเซ็ตพวงมาลัยในเมืองเบาสบาย ควบคุมทิศทางง่าย"
+      ]
+    },
+    {
+      "model_id": "mg4_electric",
+      "brand": "MG",
+      "model_name": "MG4 Electric",
+      "launch_year": 2022,
+      "variants": [
+        {
+          "name": "D (Standard Range CKD)",
+          "launch_price_thb": 669900,
+          "current_price_thb": 579900,
+          "battery_capacity_kwh": 50.0,
+          "battery_type": "LFP (Rubik's Cube Battery)",
+          "range_km_nedc": 450,
+          "motor_power_hp": 170,
+          "drive_type": "RWD",
+          "energy_consumption_kwh_100km": 13.0
+        },
+        {
+          "name": "X (Long Range CKD)",
+          "launch_price_thb": 749900,
+          "current_price_thb": 699900,
+          "battery_capacity_kwh": 62.2,
+          "battery_type": "LFP (Rubik's Cube Battery)",
+          "range_km_nedc": 540,
+          "motor_power_hp": 251,
+          "drive_type": "RWD",
+          "energy_consumption_kwh_100km": 13.5
+        }
+      ],
+      "user_problems": [
+        "พื้นที่เก็บสัมภาระท้ายรถค่อนข้างจำกัดเมื่อเทียบกับคู่แข่งระดับเดียวกัน",
+        "หัวหน้าแท่นชาร์จหรือพอร์ตชาร์จในบางคันขัดข้องบ่อย ล็อคไม่คลาย หรือเจอปัญหาการสื่อสารชาร์จไม่เข้า",
+        "การออกแบบปุ่มคันเกียร์แบบหมุนและปุ่มกดเบรกมือไฟฟ้าบางครั้งตอบสนองช้าเล็กน้อย",
+        "ปัญหาเรื่องสนิมบริเวณคานและใต้ท้องในบางล็อตการประกอบ (ถูกพูดถึงในบอร์ดผู้ใช้)"
+      ],
+      "user_pros": [
+        "การทรงตัวและช่วงล่างระดับเทพ ขับสนุก มั่นใจมากที่ความเร็วสูง",
+        "ขับเคลื่อนล้อหลัง รัศมีวงเลี้ยวแคบ คล่องตัวสูง",
+        "มีแคมเปญรับประกันแบตเตอรี่ตลอดอายุการใช้งาน (Lifetime Warranty) สำหรับเจ้าของคนแรก"
+      ]
+    },
+    {
+      "model_id": "tesla_model_3",
+      "brand": "Tesla",
+      "model_name": "Model 3 (Highland)",
+      "launch_year": 2023,
+      "variants": [
+        {
+          "name": "Standard RWD",
+          "launch_price_thb": 1599000,
+          "current_price_thb": 1149000,
+          "battery_capacity_kwh": 57.5,
+          "battery_type": "LFP",
+          "range_km_wltp": 513,
+          "motor_power_hp": 283,
+          "drive_type": "RWD",
+          "energy_consumption_kwh_100km": 13.2
+        },
+        {
+          "name": "Long Range AWD",
+          "launch_price_thb": 1899000,
+          "current_price_thb": 1799000,
+          "battery_capacity_kwh": 75.0,
+          "battery_type": "NMC",
+          "range_km_wltp": 629,
+          "motor_power_hp": 441,
+          "drive_type": "AWD",
+          "energy_consumption_kwh_100km": 14.0
+        }
+      ],
+      "user_problems": [
+        "การยกเลิกก้านไฟเลี้ยวที่คอพวงมาลัยเปลี่ยนมาใช้ปุ่มกดบนพวงมาลัย ทำให้กะพริบไฟยากขณะกำลังหมุนเลี้ยวในวงเวียน",
+        "เบี้ยประกันภัยรายปีแพงมากเมื่อเทียบกับรถทั่วไปในตลาด และจำกัดบริษัทประกันที่รับทำ",
+        "ไม่มีหน้าปัดแสดงความเร็วอยู่ตรงหน้าผู้ขับขี่ ต้องเหลือบมองหน้าจอแสดงผลตรงกลางเท่านั้น",
+        "หลังคากระจกไม่มีม่านไฟฟ้า ทำให้ความร้อนแผ่ลงมาสะสมในห้องโดยสารเมื่อจอดกลางแดดเมืองไทย"
+      ],
+      "user_pros": [
+        "อัตราเร่งและประสิทธิภาพการประหยัดพลังงานทำได้ยอดเยี่ยมและแม่นยำสูง",
+        "ระบบช่วยเหลือผู้ขับขี่ Autopilot และซอฟต์แวร์เสถียรที่สุดในวงการ",
+        "การอัปเดตแบบ Over-The-Air (OTA) ได้ฟีเจอร์ใหม่สม่ำเสมอ เสมือนได้รถใหม่ตลอดเวลา"
+      ]
+    },
+    {
+      "model_id": "changan_lumin",
+      "brand": "Changan",
+      "model_name": "Lumin",
+      "launch_year": 2024,
+      "variants": [
+        {
+          "name": "L LITE AC",
+          "launch_price_thb": 479000,
+          "current_price_thb": 349000,
+          "battery_capacity_kwh": 27.99,
+          "battery_type": "LFP",
+          "range_km_nedc": 301,
+          "motor_power_hp": 48,
+          "drive_type": "FWD",
+          "energy_consumption_kwh_100km": 9.5
+        },
+        {
+          "name": "L AC/DC (Extended Range)",
+          "launch_price_thb": 499000,
+          "current_price_thb": 409000,
+          "battery_capacity_kwh": 27.99,
+          "battery_type": "LFP",
+          "range_km_nedc": 301,
+          "motor_power_hp": 48,
+          "drive_type": "FWD",
+          "energy_consumption_kwh_100km": 9.5
+        }
+      ],
+      "user_problems": [
+        "อุปกรณ์อำนวยความสะดวกพื้นฐานให้มาน้อยมาก เช่น กระจกมองข้างปรับมือ, ไม่มีเกียร์ P (ใช้เบรกมือค้าง)",
+        "ความเร็วสูงสุดจำกัดไว้เพียง 101 กม./ชม. ไม่เหมาะแก่การเดินทางข้ามจังหวัดยาวๆ หรือขึ้นทางด่วนความเร็วสูง",
+        "ไม่มีที่ปัดน้ำฝนกระจกด้านหลังรถยนต์",
+        "ล้อขนาดเล็ก (14 นิ้ว) ทำให้รู้สึกสั่นสะเทือนสะท้อนเข้ามาในห้องโดยสารเวลาตกหลุมค่อนข้างกระด้าง"
+      ],
+      "user_pros": [
+        "ดีไซน์ภายนอกและภายในน่ารักโดดเด่นสะดุดตา เป็นเอกลักษณ์มาก",
+        "หาที่จอดรถและเลี้ยวกลับรถได้คล่องตัวสูงอย่างยิ่งในเมืองใหญ่",
+        "อัตราการสิ้นเปลืองไฟประหยัดมาก คุ้มค่าเงินอย่างสูงสุดต่อกิโลเมตร"
+      ]
+    },
+    {
+      "model_id": "gac_aion_y_plus",
+      "brand": "GAC AION",
+      "model_name": "Y Plus",
+      "launch_year": 2023,
+      "variants": [
+        {
+          "name": "410 Premium",
+          "launch_price_thb": 969900,
+          "current_price_thb": 769900,
+          "battery_capacity_kwh": 50.66,
+          "battery_type": "LFP (Magazine Battery)",
+          "range_km_nedc": 410,
+          "motor_power_hp": 204,
+          "drive_type": "FWD",
+          "energy_consumption_kwh_100km": 14.0
+        },
+        {
+          "name": "490 Premium",
+          "launch_price_thb": 1099900,
+          "current_price_thb": 829900,
+          "battery_capacity_kwh": 63.2,
+          "battery_type": "LFP (Magazine Battery)",
+          "range_km_nedc": 490,
+          "motor_power_hp": 204,
+          "drive_type": "FWD",
+          "energy_consumption_kwh_100km": 14.5
+        }
+      ],
+      "user_problems": [
+        "ช่วงล่างเดิมๆ ค่อนข้างนิ่มยวบเกินไป มีอาการโคลงและโยนตัวอย่างรุนแรงเมื่อเปลี่ยนเลนเร็วๆ หรือขับด้วยความเร็วสูง",
+        "โครงสร้างองค์กรดีลเลอร์และศูนย์บริการมีการปรับเปลี่ยนและปรับโครงสร้างบ่อย ทำให้ผู้ใช้เกิดความสับสนเรื่องการเคลม",
+        "ความสว่างของไฟหน้ารถค่อนข้างสว่างน้อยในตอนกลางคืนบนทางไม่มีไฟทางหลวง",
+        "ระบบเชื่อมต่อสัญญาณอินเทอร์เน็ต/Wi-Fi ในตัวรถบางครั้งค้างหรือไม่เสถียร"
+      ],
+      "user_pros": [
+        "พื้นที่โดยสารตอนหลังกว้างขวางที่สุดในระดับรถกลุ่มเดียวกัน นั่งสบายเหยียดขาได้เต็มที่",
+        "เบาะหน้าสามารถพับลงมาชนกับเบาะหลังเพื่อปรับเป็นที่นอนราบได้อย่างสมบูรณ์แบบ",
+        "แบตเตอรี่ความปลอดภัยสูง (เทคโนโลยี Magazine Battery) ทนความร้อนสูง"
+      ]
+    }
+  ]
+}
